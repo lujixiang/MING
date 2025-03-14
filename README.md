@@ -8,7 +8,7 @@
 
 
 <div align="center"><img src="https://img.shields.io/badge/Version-1.3--alpha-brightgreen"> <img src="https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg"> <img src="https://img.shields.io/badge/python-3.9+-blue.svg"></div>
-
+12
 ## 🌐项目简介
 
 本项目开源了基于医疗指令微调的中文医疗问诊模型：**明医 (MING)**。目前模型的主要功能如下：
